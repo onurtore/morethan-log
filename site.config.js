@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `my-blog`,
+      name: `morethan-log`,
       href: "https://github.com/onurtore/morethan-log",
     },
   ],
